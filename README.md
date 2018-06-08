@@ -1,3 +1,5 @@
+This is the set tools used by the YOLO Real-Time Food Detection article at <http://bennycheung.github.io/yolo-for-real-time-food-detection>
+
 ## Food100 YOLO Training Tools
 The following instructions concentrated on describing YOLO v2 setup and training.
 To get DarkNet YOLO training to work, we needs
